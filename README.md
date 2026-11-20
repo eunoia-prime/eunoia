@@ -1,2 +1,0 @@
-# eunoia
-public .md
